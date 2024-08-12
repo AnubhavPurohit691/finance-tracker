@@ -13,7 +13,7 @@ const Financeform = () => {
 
         const newrecord={
             userId:user?.id,
-            Date:new Date(),
+            date:new Date(),
             description:description,
             amount:parseFloat(amount),
             category:category,
