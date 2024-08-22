@@ -1,3 +1,4 @@
+import "./financial-record.css";
 
 import { useUser } from "@clerk/clerk-react"
 import Financeform from "./Financeform"
